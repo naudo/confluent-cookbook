@@ -1,4 +1,4 @@
-default["confluent"]["version"] = "3.0"
+default["confluent"]["version"] = "3.2"
 default["confluent"]["scala_version"] = "2.11"
 
 # Confluent repository defaults

@@ -21,3 +21,7 @@ Updated for Confluent platform 3.0.
 # 0.5.1
 
 Converted kafka from SysV to systemd service
+
+# 0.5.2
+
+Updated for confluent platform 3.2
